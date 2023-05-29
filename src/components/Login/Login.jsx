@@ -27,8 +27,8 @@ const Login = () => {
     <div className="login">
       <div className="login__container">
         <img src="https://cdn.svgporn.com/logos/slack.svg" alt="" />
-        <h1>Sign in to Clever Programmer HQ</h1>
-        <p>cleverprogrammer.slack.com</p>
+        <h1>Sign in to MMJ Slack App</h1>
+        <p>MMJ.slack.com</p>
         <Button onClick={signIn}>Sign In WIth Google</Button>
       </div>
     </div>
